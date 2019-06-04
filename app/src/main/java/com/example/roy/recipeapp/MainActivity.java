@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         recipeList = new ArrayList<>();
 
         requestData();
-        
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
